@@ -1,3 +1,5 @@
+<img width="1661" height="871" alt="House Price Dashboard" src="https://github.com/user-attachments/assets/b3dff907-6246-46b6-bb02-67f689ad3121" />
+
 ## Real Estate Market Analysis & House Price Insights
 
 ## Data_Science
